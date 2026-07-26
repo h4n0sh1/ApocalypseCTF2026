@@ -1,0 +1,16 @@
+# Forensic evidence data
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Procmon logs
+*.PML
+*.pml
+
+# Build artifacts / generated output
+*.exe
+triage_output.txt
